@@ -1,0 +1,280 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;   
+} 
+
+
+.descript{
+    color:darkkhaki;
+}
+
+#header{ 
+    background-image: url("./image/abrakadabra-fun-p-sportivnii-fon-dlya-instagrama-2.jpg");
+    background-repeat: repeat-x;
+    box-sizing: border-box;
+    height: 135px;
+    border-radius:15px 15px 42px 42px ;
+    padding: 15px;
+}
+
+h1{
+    font-size: 56px;
+    color: black;
+    font-weight: 400px;
+    text-align: end;
+}
+
+#nachalo {
+    letter-spacing: 1px;
+    text-indent: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 240px;
+    text-align: justify;
+    width: 905px;
+    height: 370px;
+    font-size: 26px;
+    float:left; 
+    margin-left: 95px;
+    margin-top: 45px; 
+    font-style:inherit;    
+}
+
+
+.fot{
+  width: 300px;
+  margin-top: 35px;
+  margin-left:265px;
+}
+
+
+#parent{
+    letter-spacing: 0,8px;
+    margin-top: 35px;
+    border: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+     
+}
+#child{
+    margin-top: 75px;
+    background: #f6f6f6;
+    border: 1px solid white;
+    padding: 15px;
+    font-size: 25px;
+    color: rgba(0,0,0,0.87);
+    text-decoration: none; 
+    width: 850px;  
+}
+
+.fotogr{
+    display: flex;
+    float: left;
+    width: 142px;
+    height: 122px;
+    margin-right: 32px;
+    margin-left: 0px;
+}
+
+
+ul{
+    font-size: 23px;
+    text-align: justify;
+}
+#read1{
+    display: flex;
+    justify-content: end;
+color:blue;
+
+
+}
+#silka{
+    text-decoration:none;
+}
+
+a{
+    text-decoration:none;  
+}
+a:hover{
+    color: #005c80; 
+    text-decoration: underline;
+    transition: 1s linear;  
+}
+.b0{
+    background: #bedde9;
+    display: flex;
+    flex-wrap: wrap;
+}
+.b1{
+    background-position: left, right;
+    background:#e4d9d9;
+    border: 1px solid black;
+    height: 1000px;
+    width: 1000px;
+    margin-left: 450px;
+}
+.ris1{
+    padding: 12px;
+    width: 463px;
+    height: 250px;
+    float: left;
+}
+
+
+
+.b2{
+   
+    background:#e4d9d9;
+    border: 1px solid black;
+    height: 1000px;
+    width: 1000px;
+    margin-left: 450px;
+}
+.ris2{
+    padding: 19px;
+    width: 300px;
+    height: 250px;
+    margin-left: 28px;
+    float: left;
+}
+
+
+
+.b3{
+   
+    background:#e4d9d9;
+    border: 1px solid black;
+    height: 1000px;
+    width: 1000px;
+    margin-left: 450px;
+}
+.ris3{
+   
+    padding: 15px;
+    width: 395px;
+    height: 250px;
+    float: left;
+}
+
+
+
+.b4{
+    background:#e4d9d9;
+    border: 1px solid black;
+    height: 1000px;
+    width: 1000px;
+    margin-left: 450px;
+}
+.ris4{
+    padding: 15px;
+    width: 395px;
+    height: 250px;
+    float: left;
+}
+
+.zagl{
+    margin-top: 19px;
+    letter-spacing: 0.7px;
+    font-size: 33px;
+    padding: 10px;
+    font-weight:200;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+}
+.leftfoto{
+    letter-spacing: 1.3px;
+    margin-top: 25px;
+   margin-right: 19px;
+   margin-left: 29px;
+    font-size:25px ;
+    line-height: 1.5;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wid1{
+    margin-left: 87px;
+    font-size: 27px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wid2{
+    font-size: 23px; 
+    margin-left: 74px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.leftfoto3{
+    letter-spacing: 1.3px;
+    margin-top: 25px;
+   margin-right: 19px;
+   margin-left: 29px;
+    font-size:25px ;
+    line-height: 1.5;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+}
+
+
+.leftfoto2{
+    letter-spacing: 1.3px;
+    margin-top: 25px;
+   margin-right: 19px;
+   margin-left: 23px;
+    font-size:25px ;
+    line-height: 1.5;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+}
+
+.kartinka2_1{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 28px;
+    width: 270px;
+    height: 220px;
+}
+
+.kartinka2_2{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 28px;
+    width: 260px;
+    height: 220px;
+}
+
+.kart_gas{
+    display: flex;
+    justify-content: space-around;
+}
+.leftfoto4{
+    letter-spacing: 1.3px;
+    margin-top: 25px;
+   margin-right: 19px;
+   margin-left: 23px;
+    font-size:25px ;
+    line-height: 1.5;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.kartinka4_1{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 28px;
+    width: 280px;
+    height: 205px;
+}
+
+.kartinka4_2{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 28px;
+    width: 260px;
+    height: 205px;
+}
+
+.kart_center{
+    display: flex;
+    justify-content: space-around;
+}
